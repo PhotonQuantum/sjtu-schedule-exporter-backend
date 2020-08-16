@@ -1,0 +1,16 @@
+ics
+arrow
+itsdangerous
+pillow
+pydantic
+starlette
+fastapi
+aredis
+async_property
+aiohttp
+httpx
+defaultlist
+marshmallow
+numpy
+onnxruntime
+uvicorn
